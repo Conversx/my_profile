@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+ผมเป็นนักพัฒนาเว็บไซต์ที่หลงใหลในการรังสรรค์ **High-Performance Websites** ด้วยการเขียนโค้ด (Hard Code) เพื่อให้ได้ผลลัพธ์ที่โหลดไว ปรับแต่งได้ 100% และรองรับ SEO เต็มรูปแบบ
+
+- 🔭 ตอนนี้ผมกำลังรับทำ: **เว็บไซต์โปรไฟล์บริษัท / Portfolio (5-8 หน้า)**
+- 🌱 กำลังศึกษาเพิ่มเติม: **Tailwind CSS & React**
+- ⚡ จุดเด่น: เน้นโค้ดสะอาด (Clean Code) และ Responsive Design (รองรับทุกหน้าจอ)
 
 
 ## 🌐 Socials:
